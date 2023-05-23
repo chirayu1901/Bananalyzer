@@ -2,7 +2,7 @@
 
 This repo documents my attempt to teach myself the construction of an Interpreter.
 
-(Up next Parser)...
+(Up next, Parser)...
 
 # The Lexer - a completed tokenizer in a REPL
 
